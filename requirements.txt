@@ -1,0 +1,10 @@
+streamlit
+langchain
+cassio
+astrapy
+together
+wikipedia-api
+google-api-python-client
+python-dotenv
+graphviz
+plotly
