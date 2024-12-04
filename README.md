@@ -80,7 +80,7 @@ The system comprises:
 
 Contributors
 
-	•	Atharva Weginwar
-	•	LinkedIn: [in/atharvaweginwar/](https://www.linkedin.com/in/atharvaweginwar/)
-	•	Yash Patil
-	•	LinkedIn: [in/yashpatil23/](https://www.linkedin.com/in/yashpatil23/)
+- Atharva Weginwar
+- LinkedIn: [in/atharvaweginwar/](https://www.linkedin.com/in/atharvaweginwar/)
+- Yash Patil
+- LinkedIn: [in/yashpatil23/](https://www.linkedin.com/in/yashpatil23/)
